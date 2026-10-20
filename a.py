@@ -2,3 +2,7 @@
 
 #This is our code
 print("I love Git")
+
+#This is a chango to our code
+
+print("I love merging")
